@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: cursive;
+
+}
+
+.container {
+    background-color: rgb(209, 169, 246);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form {
+    background-color: white;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .5);
+    color: rgb(36, 37, 34);
+    height: 100px;
+}
+
+.input {
+    margin-top: 10px;
+    cursor: pointer;
+    outline: none;
+
+}
+
+p {
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.heading {
+    background-color: aquamarine;
+    width: 50%;
+}
